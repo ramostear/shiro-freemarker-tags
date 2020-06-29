@@ -1,0 +1,2 @@
+# shiro-freemarker-tags
+基于Freemarker实现的Shiro权限标签，由于Shiro版本更新，原有的Shiro方法已经被废弃，为跟随Shiro新版本，重写了Freemarker Shiro Tags。你可以将此最新的Shiro-Freemarker-Tags依赖包导入到项目中，然后在Freemarker模板中使用Shiro权限控制标签。
